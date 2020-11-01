@@ -62,7 +62,7 @@ export {Restaurants};
 //           headers: {
 //             'x-rapidapi-host': 'worldwide-restaurants.p.rapidapi.com',
 //             'x-rapidapi-key':
-//               '94588c0f9fmshc237ba64e9f96abp130ff1jsnd15e896c0ee5',
+//               '*************************************************',
 //             'content-type': 'application/json',
 //           },
 //         },
